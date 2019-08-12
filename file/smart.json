@@ -1,0 +1,103 @@
+{
+	"Standalone": [
+		"*.stackoverflow.com",
+		"*.surrenderat20.net",
+		"*.disqus.com",
+		"*.amazonaws.com",
+		"teddysun.com",
+		"*.cldup.com",
+		"*.cloudup.com",
+		"*.nba.com",
+		"*.fc2.com",
+		"*.vimeocdn.com",
+		"*.adsafeprotected.com",
+		"*.na.leagueoflegends.com",
+		"*.jsfiddle.net",
+		"*.jshell.net",
+		"*.tampermonkey.net",
+		"*.artstation.com",
+		"*.minecraft.net",
+		"*.fastly.net",
+		"*.fastly.com",
+		"*.tiqcdn.com",
+		"*.dmhy.org",
+		"*.amazonaws.com",
+		"*.imgur.com",
+		"*.fuchsia.dev",
+		"*.deviantart.com",
+		"*.gumroad.com",
+		"*.mega.nz",
+		"*.tineye.com",
+		"*.golang.org",
+		"*.wikipedia.org",
+		"gist.github.com",
+		"app.cache.kairisei-ma.jp",
+		"onedrive.live.com",
+		"*.baid1u.com"
+	],
+	"Google": [
+		"*.google.com",
+		"*.google.co.*",
+		"*.google.com.*",
+		"*.youtube.com",
+		"*.googleusercontent.com",
+		"*.ggpht.com",
+		"*.gmail.com",
+		"*.ytimg.com",
+		"*.blogspot.com",
+		"*.blogger.com",
+		"*.googlevideo.com",
+		"*.blogblog.com",
+		"*.youtu.be",
+		"*.gstatic.com",
+		"*.googleapis.com",
+		"*.chromium.org",
+		"*.appspot.com",
+		"*.goo.gl"
+	],
+	"Twitter": [
+		"*.twitter.com",
+		"*.twimg.com",
+		"*.t.co"
+	],
+	"Facebook": [
+		"*.facebook.com",
+		"*.facebook.net",
+		"*.fbcdn.net",
+		"*.instagram.com",
+		"*.cdninstagram.com"
+	],
+	"R18": [
+		"*.e-hentai.org",
+		"*.exhentai.org",
+		"*.pixiv.net",
+		"*.pornhub.com",
+		"*.phncdn.com",
+		"*.javhd.com",
+		"*.faptitans.com",
+		"sukebei.nyaa.si"
+	],
+	"Steam": [
+		"*.steampowered.com",
+		"*.steamcommunity.com"
+	],
+	"Reddit": [
+		"*.reddit.com",
+		"*.redditmedia.com",
+		"*.redd.it"
+	],
+	"Twitch": [
+		"*.twitch.tv",
+		"*.twitch.com",
+		"*.twitchcdn.net",
+		"*.ttvnw.net"
+	],
+	"Discord": [
+		"*.discordapp.com",
+		"*.discordapp.net"
+	],
+	"Line": [
+		"*.line.me",
+		"*.line-scdn.net"
+	]
+}

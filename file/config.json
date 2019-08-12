@@ -1,0 +1,110 @@
+{
+	"+__ruleListOf_乖离（智能）": {
+		"color": "#99dd99",
+		"defaultProfileName": "direct",
+		"format": "Switchy",
+		"lastUpdate": "2019-06-20T01:03:41.875Z",
+		"matchProfileName": "乖离",
+		"name": "__ruleListOf_乖离（智能）",
+		"profileType": "RuleListProfile",
+		"revision": "16b72692568",
+		"ruleList": "[SwitchyOmega Conditions]\r\n; Google\r\n*.google.com\r\n*.google.co.*\r\n*.google.com.*\r\n*.youtube.com\r\n*.googleusercontent.com\r\n*.ggpht.com\r\n*.gmail.com\r\n*.ytimg.com\r\n*.blogspot.com\r\n*.blogger.com\r\n*.googlevideo.com\r\n*.blogblog.com\r\n*.youtu.be\r\n*.gstatic.com\r\n*.googleapis.com\r\n\r\n; Twitter\r\n*.twitter.com\r\n*.twimg.com\r\n*.t.co\r\n\r\n; Facebook\r\n*.facebook.com\r\n*.facebook.net\r\n*.fbcdn.net\r\n\r\n; Other\r\n*.stackoverflow.com\r\n*.surrenderat20.net\r\n*.disqus.com\r\n*.amazonaws.com\r\n\r\ngist.github.com\r\napp.cache.kairisei-ma.jp\r\nzh.wikipedia.org\r\nteddysun.com\r\n\r\n*.cldup.com\r\n*.cloudup.com\r\n\r\n; Ero\r\n*.e-hentai.org\r\n*.exhentai.org\r\n*.pixiv.net\r\n*.pornhub.com\r\n*.javhd.com\r\n*.phncdn.com\r\n\r\n*.steampowered.com\r\n*.steamcommunity.com\r\n\r\n*.tineye.com\r\n\r\n*.reddit.com\r\n*.redditmedia.com\r\n*.redd.it\r\n\r\n*.twitch.tv\r\n*.twitch.com\r\n*.twitchcdn.net\r\n*.ttvnw.net\r\n\r\n; discord\r\n*.discordapp.com\r\n*.discordapp.net\r\n\r\n*.instagram.com\r\n*.cdninstagram.com\r\n\r\n*.golang.org\r\n\r\n*.wikipedia.org\r\n\r\n*.faptitans.com\r\n\r\n; Line\r\n*.line.me\r\n*.line-scdn.net\r\n\r\n*.nba.com\r\n\r\n*.fc2.com\r\n\r\n*.goo.gl\r\n\r\n*.vimeocdn.com\r\n\r\n*.adsafeprotected.com\r\n\r\n*.na.leagueoflegends.com\r\n\r\n*.jsfiddle.net\r\n*.jshell.net\r\n\r\n*.tampermonkey.net\r\n\r\n*.artstation.com\r\n\r\n*.minecraft.net\r\n\r\n*.fastly.net\r\n*.fastly.com\r\n\r\n*.tiqcdn.com",
+		"sourceUrl": "https://pile.danor.app/switchy/smart"
+	},
+	"+__ruleListOf_日本（智能）": {
+		"color": "#5b5",
+		"defaultProfileName": "direct",
+		"format": "Switchy",
+		"lastUpdate": "2019-06-20T01:03:48.904Z",
+		"matchProfileName": "日本",
+		"name": "__ruleListOf_日本（智能）",
+		"profileType": "RuleListProfile",
+		"revision": "16b726940da",
+		"ruleList": "[SwitchyOmega Conditions]\r\n; Google\r\n*.google.com\r\n*.google.co.*\r\n*.google.com.*\r\n*.youtube.com\r\n*.googleusercontent.com\r\n*.ggpht.com\r\n*.gmail.com\r\n*.ytimg.com\r\n*.blogspot.com\r\n*.blogger.com\r\n*.googlevideo.com\r\n*.blogblog.com\r\n*.youtu.be\r\n*.gstatic.com\r\n*.googleapis.com\r\n\r\n; Twitter\r\n*.twitter.com\r\n*.twimg.com\r\n*.t.co\r\n\r\n; Facebook\r\n*.facebook.com\r\n*.facebook.net\r\n*.fbcdn.net\r\n\r\n; Other\r\n*.stackoverflow.com\r\n*.surrenderat20.net\r\n*.disqus.com\r\n*.amazonaws.com\r\n\r\ngist.github.com\r\napp.cache.kairisei-ma.jp\r\nzh.wikipedia.org\r\nteddysun.com\r\n\r\n*.cldup.com\r\n*.cloudup.com\r\n\r\n; Ero\r\n*.e-hentai.org\r\n*.exhentai.org\r\n*.pixiv.net\r\n*.pornhub.com\r\n*.javhd.com\r\n*.phncdn.com\r\n\r\n*.steampowered.com\r\n*.steamcommunity.com\r\n\r\n*.tineye.com\r\n\r\n*.reddit.com\r\n*.redditmedia.com\r\n*.redd.it\r\n\r\n*.twitch.tv\r\n*.twitch.com\r\n*.twitchcdn.net\r\n*.ttvnw.net\r\n\r\n; discord\r\n*.discordapp.com\r\n*.discordapp.net\r\n\r\n*.instagram.com\r\n*.cdninstagram.com\r\n\r\n*.golang.org\r\n\r\n*.wikipedia.org\r\n\r\n*.faptitans.com\r\n\r\n; Line\r\n*.line.me\r\n*.line-scdn.net\r\n\r\n*.nba.com\r\n\r\n*.fc2.com\r\n\r\n*.goo.gl\r\n\r\n*.vimeocdn.com\r\n\r\n*.adsafeprotected.com\r\n\r\n*.na.leagueoflegends.com\r\n\r\n*.jsfiddle.net\r\n*.jshell.net\r\n\r\n*.tampermonkey.net\r\n\r\n*.artstation.com\r\n\r\n*.minecraft.net\r\n\r\n*.fastly.net\r\n*.fastly.com\r\n\r\n*.tiqcdn.com",
+		"sourceUrl": "https://pile.danor.app/switchy/smart"
+	},
+	"+乖离": {
+		"bypassList": [
+			{
+				"conditionType": "BypassCondition",
+				"pattern": "127.0.0.1"
+			},
+			{
+				"conditionType": "BypassCondition",
+				"pattern": "[::1]"
+			},
+			{
+				"conditionType": "BypassCondition",
+				"pattern": "localhost"
+			}
+		],
+		"color": "#99ccee",
+		"fallbackProxy": {
+			"host": "127.0.0.1",
+			"port": 1080,
+			"scheme": "socks5"
+		},
+		"name": "乖离",
+		"profileType": "FixedProfile",
+		"revision": "168f041cad1"
+	},
+	"+乖离（智能）": {
+		"color": "#99ccee",
+		"defaultProfileName": "__ruleListOf_乖离（智能）",
+		"name": "乖离（智能）",
+		"profileType": "SwitchProfile",
+		"revision": "168f041dd70",
+		"rules": []
+	},
+	"+日本": {
+		"bypassList": [
+			{
+				"conditionType": "BypassCondition",
+				"pattern": "127.0.0.1"
+			},
+			{
+				"conditionType": "BypassCondition",
+				"pattern": "::1"
+			},
+			{
+				"conditionType": "BypassCondition",
+				"pattern": "localhost"
+			}
+		],
+		"color": "#ffaa88",
+		"fallbackProxy": {
+			"host": "127.0.0.1",
+			"port": 1081,
+			"scheme": "socks5"
+		},
+		"name": "日本",
+		"profileType": "FixedProfile",
+		"revision": "168f041d3ee"
+	},
+	"+日本（智能）": {
+		"color": "#ffaa88",
+		"defaultProfileName": "__ruleListOf_日本（智能）",
+		"name": "日本（智能）",
+		"profileType": "SwitchProfile",
+		"revision": "168f041e744",
+		"rules": []
+	},
+	"-addConditionsToBottom": true,
+	"-confirmDeletion": true,
+	"-downloadInterval": 15,
+	"-enableQuickSwitch": true,
+	"-monitorWebRequests": true,
+	"-quickSwitchProfiles": [
+		"乖离",
+		"日本",
+		"乖离（智能）",
+		"日本（智能）",
+		"direct"
+	],
+	"-refreshOnProfileChange": false,
+	"-revertProxyChanges": true,
+	"-showExternalProfile": true,
+	"-showInspectMenu": true,
+	"-startupProfileName": "",
+	"schemaVersion": 2
+}

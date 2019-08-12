@@ -1,0 +1,20 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "Run",
+			"runtimeExecutable": "node.exe",
+			"console": "integratedTerminal",
+			"cwd": "${workspaceRoot}",
+			"env": {
+				// "DEBUG": "koa*"
+			},
+			"program": "D:/Project/desire/index.js",
+			"args": [
+				"${workspaceRoot}"
+			],
+		},
+	]
+}

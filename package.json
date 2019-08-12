@@ -1,0 +1,12 @@
+{
+	"name": "switchy",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"author": "DanoR",
+	"license": "ISC",
+	"devDependencies": {
+		"eslint": "^6.1.0"
+	},
+	"dependencies": {}
+}
